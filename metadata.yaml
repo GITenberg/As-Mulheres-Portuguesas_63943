@@ -1,0 +1,33 @@
+_repo: As-Mulheres-Portuguesas_63943
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osório, Ana de Castro
+    aliases:
+    - Castro Osório, Ana de
+    - De Castro Osório, Ana
+    - Osório, Anna de Castro
+    - Osorio, Ana de Castro
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '32497'
+    url: http://www.gutenberg.org/2009/agents/32497
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
+    - https://en.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
+description: ''
+gutenberg_issued: '2020-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63943'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Feminism -- Portugal'
+- !lcsh 'Women -- Portugal -- Social conditions'
+- GITenberg
+title: Ás Mulheres Portuguêsas
+url: http://www.gutenberg.org/ebooks/63943
